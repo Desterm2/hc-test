@@ -179,7 +179,7 @@ img {
     }
 
     .imovel-gallery {
-        flex-direction: column; /* Imagens empilhadas em coluna */
+        flex-direction: column; word-break: break-all /* Imagens empilhadas em coluna */
     }
 
     .imovel-description {
